@@ -10,8 +10,3 @@
 <p>🌐 My LinkedIn : www.linkedin.com/in/karimx </p>
 <p>📩 My E-mail : mohammad.karimx@gmail.com </p>
 
-<p></p>
-
-<p></p>
-
-<p></p>
