@@ -1,4 +1,4 @@
-### XYZ-Shop-System 🛒
+## XYZ-Shop-System 🛒
 
 <p>This project 📚 was assigned to me as part of the Object-Oriented Programming course at the Islamic University. The objective of the project was to develop an expanded version of XYZ Shop, with a focus on incorporating the fundamental concepts of inheritance and polymorphism, while introducing new functionalities to enhance the program's capabilities.</p>
 
