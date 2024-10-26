@@ -8,6 +8,5 @@
 
 ##
 <p>🚀 Let's connect to collaborate and shape a beautiful future together! </p>
-<p>🌐 My LinkedIn : www.linkedin.com/in/karimx </p>
-<p>📩 My E-mail : mohammad.karimx@gmail.com </p>
-
+<p>🌐 <strong>My LinkedIn:</strong> <a href="https://www.linkedin.com/in/karimx" target="_blank">www.linkedin.com/in/karimx</a></p>
+<p>📩 <strong>My E-mail:</strong> <a href="mailto:mohammad.karimx@gmail.com">mohammad.karimx@gmail.com</a></p>
